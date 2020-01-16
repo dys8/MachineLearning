@@ -11,4 +11,4 @@ algorithms:
 We use the following metrics to measure the accuracy of each classifier:
 Jaccard index,
 F1-score,
-LogLoass
+LogLoss
