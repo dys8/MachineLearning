@@ -12,3 +12,6 @@ We use the following metrics to measure the accuracy of each classifier:
 Jaccard index,
 F1-score,
 LogLoss
+
+
+This is a modified version of an assignment I have completed.
