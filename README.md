@@ -14,4 +14,4 @@ F1-score,
 LogLoss
 
 
-This is a modified version of an assignment I have completed.
+This is a modified version of an assignment I have completed as part of an online course offered by IBM.
